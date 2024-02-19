@@ -109,6 +109,6 @@ int main() {
  
     delete[] tablica;
     delete[] tablica2;
- 
+
     return 0;
 }
